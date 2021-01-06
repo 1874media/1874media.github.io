@@ -2504,6 +2504,18 @@ a {
   width: 100%;
   object-fit: cover;
 }
+.cid-slknfgVSPR {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #fafafa;
+}
+.cid-slknfgVSPR iframe {
+  margin-left: auto;
+  margin-right: auto;
+}
+.cid-slknfgVSPR .container-fluid {
+  padding: 0;
+}
 .cid-sl9JXGeFbo {
   padding-top: 15px;
   padding-bottom: 15px;
