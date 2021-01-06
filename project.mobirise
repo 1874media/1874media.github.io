@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-10-01_1121",
-    "currentPage": "page3.html",
+    "currentPage": "photo.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -1899,7 +1899,7 @@
         }
       ]
     },
-    "page3.html": {
+    "musicprod.html": {
       "settings": {
         "title": "1874Media | Music Production",
         "order": 2
@@ -2564,7 +2564,7 @@
         }
       ]
     },
-    "page4.html": {
+    "photo.html": {
       "settings": {
         "title": "1874Media | Photography",
         "order": 3
